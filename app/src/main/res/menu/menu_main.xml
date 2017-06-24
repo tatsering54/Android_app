@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tashi_tsering.testapp.test_menu">
+
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="Setting"/>
+
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About"/>
+
+    <item
+        android:id="@+id/contact"
+        android:orderInCategory="100"
+        android:title="Contact Us"/>
+</menu>
